@@ -9,13 +9,11 @@ var config = {
    * Please update the following uaa configuration for your solution
    */
     uaa: {
-
-        clientId: '3',
-        clientSecret: 'QwCmZzb6jvyWIAb0z8chBt779TPSRoA40EIK0UBt',
+        clientId: '4',
+        clientSecret: 'zkkH4RiO62AFVAc4Uvg46JLITpRdB02UIiy3Vd8T',
         serverUrl: 'http://energyweb-aeokkmro.neuseer.cn',
         redirect_uri: 'http://dcc.neuseer.cn/callback',
         defaultClientRoute: '/about'
-
     },
   /**
    * --------- ADD YOUR SECURE ROUTES HERE ------------
