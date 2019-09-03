@@ -13,7 +13,7 @@ var config = {
         clientId: '3',
         clientSecret: 'QwCmZzb6jvyWIAb0z8chBt779TPSRoA40EIK0UBt',
         serverUrl: 'http://energyweb-aeokkmro.neuseer.cn',
-        redirect_uri: 'http://Energy01.neuseer.cn/callback',
+        redirect_uri: 'http://dcc.neuseer.cn/callback',
         defaultClientRoute: '/about'
 
     },
